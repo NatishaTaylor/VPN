@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/QurLqjG.png" height="40%" width="60%"/>
+<img src="https://i.imgur.com/QH8k3C8.png" height="40%" width="60%"/>
 </p>
 
 <h1>Observing the Effect of a VPN on IP Addressing</h1>
